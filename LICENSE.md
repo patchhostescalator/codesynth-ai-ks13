@@ -1,4 +1,4 @@
-# 
+# Lightweight CodeSynth setup. Download and install with secure-download and batch-processing — fast, secure, and easy to use.
 
 
 
